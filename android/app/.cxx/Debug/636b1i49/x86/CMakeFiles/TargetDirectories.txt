@@ -1,0 +1,2 @@
+/Users/yormangomez/Desktop/desarrollador/test/estrella_test/android/app/.cxx/Debug/636b1i49/x86/CMakeFiles/edit_cache.dir
+/Users/yormangomez/Desktop/desarrollador/test/estrella_test/android/app/.cxx/Debug/636b1i49/x86/CMakeFiles/rebuild_cache.dir
